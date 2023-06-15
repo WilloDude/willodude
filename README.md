@@ -2,7 +2,7 @@
 
 A basic flight simulator with four synchronized views.
 
-Click [here](http://richiecarmichael.github.io/simulator/index.html) or [here](http://maps.esri.com/rc/simulator/index.html) to view the live application.
+Click [here](http://richiecarmichael.github.io/simulator/index.html) or [here](http://maps.esri.com/rc/simulator/index.html) to view the original application
 
 #### This application makes use of the following libraries:
 
